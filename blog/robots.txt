@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: worldofsolitaire.github.io/game/sitemap.xml
